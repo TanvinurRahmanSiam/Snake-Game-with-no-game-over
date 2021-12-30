@@ -125,16 +125,3 @@ screen.onkey(go_left, "Left")
 
 run()
 turtle.done()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
